@@ -1,4 +1,4 @@
-# Hello Roan! I am now giving you a course on writing a Number Word script!
+# Hello! I am now giving you a course on writing a Number Word script!
 # Write your answer in another script. Start by creating your variable by writing something simple,
 # then add a space and then =
 example =
@@ -20,3 +20,4 @@ example2 = input("Word: ")
 for _ in range(example):
     print(example2)
 # now execute that code!
+ 
